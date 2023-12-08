@@ -1,7 +1,5 @@
 ---
 title: "ACP-159 Redes inalámbricas"
-author: "Romel Gilberto Cruz Dominguez"
-date: "06 de Dicembre 2023"
 output:
   rmdformats::readthedown:
     highlight: kate
